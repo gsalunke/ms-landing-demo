@@ -5,7 +5,7 @@ sidebar: false
 -- spa.hero-with-image: We transform ideas into digital outcomes.
 link: landing/
 cta-primary: Learn More
-cta-primary-link: /#content
+cta-primary-link: #content
 image: $assets.files.assets.landing.svg
 
 We are an award-winning strategic design company that provides consultancy
